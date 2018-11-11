@@ -1,0 +1,35 @@
+.elizabethls-advice   {
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 2.8em;
+    background-color: #54575A;
+    text-align: center;
+}
+
+header  {
+    color: #000000;
+    border-bottom: 1px solid #FFA500;
+    padding-top: 20px;
+}
+
+h1, h4, p    {
+    color: #000000;
+    line-height: 2.3em;
+}
+
+span  {
+    text-transform: uppercase;
+}
+
+.button   {
+  color: #303030;
+  border: 1px solid #000000;
+  background-color: #A9A9A9;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 40px
+}
+
+section  {
+  border-bottom: 1px solid #FFF;
+}
